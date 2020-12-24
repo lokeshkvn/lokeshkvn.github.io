@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Mini Search Engine"
+collection: projects
+type: "Lab Project"
+permalink: /projects/2015-04-20-project-1
+venue: "Department of Mathematics, IIT Guwahati"
+date: 2015-04-20
+location: "Indian Institute of Technology Guwahati"
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We used data structures like Hash Tables, Balanced Trees in order to design a text search engine that gives the frequency of the searched word in a given folder of files.
+
+We analyze and compare different data structures that can be used in search engines.

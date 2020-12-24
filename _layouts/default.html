@@ -11,17 +11,18 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body style= "padding-bottom: 3em; margin-bottom: 2em;">
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
     {{ content }}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
+    <div class="page__footer" >
+      <footer style="margin: 0.5em; padding: 0 2em 0em;">
+              {% include footer/custom.html %}
+              {% include footer.html %}
+
       </footer>
     </div>
 
