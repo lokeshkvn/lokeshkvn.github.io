@@ -2,14 +2,12 @@
 title: "HackMusic"
 collection: projects
 type: "Personal Project - Android Application"
-permalink: /projects/2016-10-hackmusic
+permalink: /projects/2016-10-01-hackmusic
 venue: ""
 date: 2016-10-01
 location: "National Institute of Technology Durgapur"
 ---
 
-We used data structures like Hash Tables, Balanced Trees in order to design a text search engine that gives the frequency of the searched word in a given folder of files.
+HackMusic is my version of Android Music App, which has all basic functionality of music app along with creating playlist and adding songs to favourites. 
 
-We analyze and compare different data structures that can be used in search engines.
-
-[Project Link](https://github.com/RaghavSomani/C-Cpp-programs/tree/master/Txt%20search%20engine){:target="_blank"}, [Presentation Slides](https://drive.google.com/file/d/1o7_x1R1c_hHFI8vzq4LuAJdvir2YsWjC/view?usp=sharing){:target="_blank"}
+[Project Link](https://github.com/lokeshkvn/HackMusic){:target="_blank"}

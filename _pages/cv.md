@@ -27,36 +27,36 @@ Publications
 
 Education
 ------
-* M.S student at [Faculty of Computer Science and Information Technology](https://www.cs.washington.edu/){:target="_blank"}, 2019 - Present<br>
-[University of Malaya, Malaysia](https://www.washington.edu/){:target="_blank"}<br>
-Advisor: [Dr. P. Shivakumara](https://homes.cs.washington.edu/~sewoong/){:target="_blank"}
-* B.Tech. in [Information technology](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, 2013 - 17<br>
-[National Institute of Technology Durgapur](http://www.iitg.ernet.in/){:target="_blank"}
+* M.S student at [Faculty of Computer Science and Information Technology](https://fsktm.um.edu.my/){:target="_blank"}, 2019 - Present<br>
+[University of Malaya, Malaysia](https://um.edu.my/){:target="_blank"}<br>
+Advisor: [Dr. P. Shivakumara](https://umexpert.um.edu.my/shiva){:target="_blank"}
+* B.Tech. in [Information technology](https://nitdgp.ac.in/department/CS){:target="_blank"}, 2015 - 2019<br>
+[National Institute of Technology Durgapur](https://nitdgp.ac.in/){:target="_blank"}
 
 
 Work experience
 ------
-* October 2020 - Present: Project Linked Person
-  * Advisor: [Prof. Umapada Pal](https://homes.cs.washington.edu/~sewoong/){:target="_blank"}
+* November 2020 - Present: Project Linked Person
+  * Advisor: [Prof. Umapada Pal](https://www.isical.ac.in/~umapada/){:target="_blank"}
   * Computer Vision and Pattern Recognition Unit, Indian Statistical Institute, Kolkata, India
 
-* November 2019 - October 2020: Graduate Research Assistant
-  * Advisor: [Prof. Sewoong Oh](https://homes.cs.washington.edu/~sewoong/){:target="_blank"}
+* November 2019 - November 2020: Graduate Research Assistant
+  * Advisor: [Prof. P. Shivakumara](https://umexpert.um.edu.my/shiva){:target="_blank"}
   * Multimedia Lab, University of Malaya, Malaysia
 
-* July 2019 - November 2019: [Trainee Software Engineer](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/#!research-fellow-program){:target="_blank"}
-  * [HSBC Software Develepment India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"}
-  * Project group: [Commercial Banking division, HSBC Software development, Pune](https://www.microsoft.com/en-us/research/project/provable-non-convex-optimization-for-machine-learning-problems/){:target="_blank"}
+* July 2019 - November 2019: Trainee Software Engineer
+  * [HSBC Software Develepment India](https://www.hsbc.co.in/){:target="_blank"}
+  * Project group: [Commercial Banking division, HSBC Software development, Pune](https://www.hsbc.com/who-we-are/our-businesses-and-customers/commercial-banking){:target="_blank"}
 
 * Summer 2018: Student Developer
-  * [Google Summer of Code 2018](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"}
+  * [Google Summer of Code 2018](https://summerofcode.withgoogle.com/archive/2018/projects/4726926518255616/){:target="_blank"}
   * Mentor: Dr. Philip Wender
-  * Project: [CPAChecker Software, SoSy Lab, LMU Munich, Germany](https://raghavsomani.github.io/projects/2018-08-16-project-2){:target="_blank"}
+  * Project: [CPAChecker Software, SoSy Lab, LMU Munich, Germany](https://summerofcode.withgoogle.com/archive/2018/organizations/5139217877303296/){:target="_blank"}
 
 * Summer 2017: Software Development Intern
-  * [Satvix Informatics Pvt. Ltd, Pune](http://www.cafral.org.in/)
-  * Mentor: [Mr. Pankaj Kanchankar](https://www.rhsmith.umd.edu/directory/nagpurnanand-r-prabhala){:target="_blank"}
-  * Project: [Offline Survey Application based on Ionic and Angular](https://raghavsomani.github.io/projects/2015-07-20-project-1){:target="_blank"} - [Intern report](https://drive.google.com/file/d/0B9-6pftL99HLaGNHSlo1bUcxTU0/view?usp=sharing){:target="_blank"}
+  * [Satvix Informatics Pvt. Ltd, Pune](https://www.satvix.com/)
+  * Mentor: Mr. Pankaj Kanchankar & Mr. Ajinkya Gadewar
+  * Project: Offline Survey Application based on Ionic and Angular
 
 
 *Download pdf here for more details of my CV.  - [__Curriculum Vitae__](\files\Lokesh_CV.pdf){: .btn .btn--info}*

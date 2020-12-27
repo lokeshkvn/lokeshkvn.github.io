@@ -57,8 +57,8 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. {% if post.paperurl %} <strong>[<a href="{{ post.paperurl }}" rel="permalink" style="text-decoration: none;"> Paper URL </a>]</strong>
-            <strong>[<a href="{{ post.paperurl }}" rel="permalink" style="text-decoration: none;"> PDF </a>]</strong>{% endif %}</p>
+          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. {% if post.paperurl %} <strong>[<a href="{{ post.paperurl }}" rel="permalink" style="text-decoration: none;"> Paper URL </a>]</strong>{% endif %}
+            {% if post.pdf %}<strong>[<a href="{{ post.pdf }}" rel="permalink" style="text-decoration: none;"> PDF </a>]</strong>{% endif %}</p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
