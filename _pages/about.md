@@ -8,22 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a Project-Linked-Person in [Indian Statistical Institute (ISI) Calcutta](https://www.isical.ac.in/), working under the guidance of [Prof. Umapada Pal](https://www.isical.ac.in/~umapada/). I am also a final year Master's (Research) student in Computer Science at the University of Malaya (UM), Malaysia advised by [Prof. P. Shivakumara](https://umexpert.um.edu.my/shiva) and [Prof. Nor Badrul Anuar](https://umexpert.um.edu.my/badrul). 
+I am working as a Deep Learning Engineer (Computer Vision) at a retail visual intelligence startup [Infilect Technologies Ltd.](https://www.infilect.com) Previously, I have worked as a Project-Linked-Person in [Indian Statistical Institute (ISI) Calcutta](https://www.isical.ac.in/) under the guidance of [Prof. Umapada Pal](https://www.isical.ac.in/~umapada/). I am about to complete Master's (Research) degree in Computer Science from University of Malaya (UM), Malaysia advised by [Prof. P. Shivakumara](https://umexpert.um.edu.my/shiva) and [Prof. Nor Badrul Anuar](https://umexpert.um.edu.my/badrul) and my thesis is under examination.
 
-Before joining UM, I have worked as a Trainee Software Engineer at HSBC Software Development India, Pune. I was also selected in [Google Summer of Code (GSoC) 2018](https://summerofcode.withgoogle.com/archive/2018/projects/4726926518255616/) where I worked as a Student Developer. I attended [NIT Durgapur](https://nitdgp.ac.in/) where I obtained my B.Tech. in Information Technology in 2019. 
+Before joining UM, I have worked as a Trainee Software Engineer at HSBC Software Development India, Pune. I was also selected as Student Developer in [Google Summer of Code (GSoC) 2018](https://summerofcode.withgoogle.com/archive/2018/projects/4726926518255616/). I attended [NIT Durgapur](https://nitdgp.ac.in/) where I obtained my B.Tech degree in Information Technology in 2019. 
 
 ## News
 
 <p style="font-size:1.5em;">
     <div id="news" style="height:240px; margin-top: -25px; overflow-y:scroll;">
       <ul style="list-style-type:none;">
+        <li><img style="display: inline;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNTcgTU4JfBccrfEdgvGG5He1wUoTR-TxlTQ&usqp=CAU" alt="logo" height="40px" width="40px" /> <img style="display: inline;" src="images/loudspeaker.png" alt="logo" height="30px" width="30px" /> [12 April 2021] Joined <a href = 'https://www.infilect.com'> Infilect Technologies Ltd. </a> as a Deep Learning Engineer<br>
+        </li>
+        <li><img style="display: inline;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNTcgTU4JfBccrfEdgvGG5He1wUoTR-TxlTQ&usqp=CAU" alt="logo" height="40px" width="40px" /> <img style="display: inline;" src="images/loudspeaker.png" alt="logo" height="30px" width="30px" /> [11 April 2021] Moving to Bangalore to start a new journey<br>
+        </li>
+        <li><img style="display: inline;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNTcgTU4JfBccrfEdgvGG5He1wUoTR-TxlTQ&usqp=CAU" alt="logo" height="40px" width="40px" /> <img style="display: inline;" src="images/loudspeaker.png" alt="logo" height="30px" width="30px" /> [21 March 2021] One paper accepted in <a href = 'https://dl.acm.org/journal/tomm'>ACM Transactions on Multimedia Computing Communications and Applications</a><br>
+        </li>
         <li><img style="display: inline;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNTcgTU4JfBccrfEdgvGG5He1wUoTR-TxlTQ&usqp=CAU" alt="logo" height="40px" width="40px" /> <img style="display: inline;" src="images/loudspeaker.png" alt="logo" height="30px" width="30px" /> [15 January 2021] Secured 3rd rank in <a href = 'https://diuf.unifr.ch/main/diva/AcTiVComp/index.html'>AcTiVComp - ICPR 2020 challenge</a><br>
         </li>
         <li><img style="display: inline;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNTcgTU4JfBccrfEdgvGG5He1wUoTR-TxlTQ&usqp=CAU" alt="logo" height="40px" width="40px" /> <img style="display: inline;" src="images/loudspeaker.png" alt="logo" height="30px" width="30px" /> [11 January 2021] One journal paper accepted in <a href = 'https://digital-library.theiet.org/content/journals/iet-ipr'>IET Image Processing Journal </a><br>
         </li>
-        <li><img style="display: inline;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNTcgTU4JfBccrfEdgvGG5He1wUoTR-TxlTQ&usqp=CAU" alt="logo" height="40px" width="40px" /> <img style="display: inline;" src="images/loudspeaker.png" alt="logo" height="30px" width="30px" /> [2 December 2020] 2 journals accepted for <a href = 'https://www.worldscientific.com/worldscinet/ijprai'> Special Issue at IJPRAI 2020</a><br>
+        <li> <img style="display: inline;" src="images/loudspeaker.png" alt="logo" height="30px" width="30px" /> [2 December 2020] 2 journals accepted for <a href = 'https://www.worldscientific.com/worldscinet/ijprai'> Special Issue at IJPRAI 2020</a><br>
         </li>
-        <li><img style="display: inline;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNTcgTU4JfBccrfEdgvGG5He1wUoTR-TxlTQ&usqp=CAU" alt="logo" height="40px" width="40px" /> <img style="display: inline;" src="images/loudspeaker.png" alt="logo" height="30px" width="30px" /> [5 November 2020] *MAJOR UPDATE* Completed my Candidature Defence for MS degree!<br>
+        <li> <img style="display: inline;" src="images/loudspeaker.png" alt="logo" height="30px" width="30px" /> [5 November 2020] *MAJOR UPDATE* Completed my Candidature Defence for MS degree!<br>
         </li>
         <li><img style="display: inline;" src="images/loudspeaker.png" alt="logo" height="30px" width="30px" /> [17 October 2020] Presented one of my project as a Speaker at <a href = 'https://fest.ai/'>Data Fest 2020</a><br>
         </li>
@@ -79,4 +85,4 @@ Deep learning and its applications in computer vision, including Medical Imaging
 
 * * *
 
-> Contact me at <a href="mailto:lokeshnandanwar150@gmail.com">`lokeshnandanwar150[at]gmail[dot]com`<a>
+> Contact me at <a href="mailto:lokesh@infilect.com">`lokesh[at]infilect[dot]com`<a> | <a href="mailto:lokeshnandanwar150@gmail.com">`lokeshnandanwar150[at]gmail[dot]com`<a>

@@ -36,7 +36,10 @@ Advisor: [Dr. P. Shivakumara](https://umexpert.um.edu.my/shiva){:target="_blank"
 
 Work experience
 ------
-* November 2020 - Present: Project Linked Person
+* April 2021 - Present: Deep Learning Engineer (Computer Vision)
+  * Infilect Technologies Ltd., Bangalore, India
+
+* November 2020 - March 2021: Project Linked Person
   * Advisor: [Prof. Umapada Pal](https://www.isical.ac.in/~umapada/){:target="_blank"}
   * Computer Vision and Pattern Recognition Unit, Indian Statistical Institute, Kolkata, India
 

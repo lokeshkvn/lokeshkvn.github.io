@@ -1,2 +1,7 @@
 _site/
-
+.DS_Store
+vendor/.DS_Store
+vendor/cache/
+files/.DS_Store
+vendor/.DS_Store
+vendor/cache/.DS_Store
